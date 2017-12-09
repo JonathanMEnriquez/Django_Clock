@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+#wrapper{
+    background-color: rgb(247, 247, 247);
+    vertical-align: top;
+    text-align: center;
+    padding: 20px;
+    min-height: 100%;
+}
+
+#top{
+    border: 2px solid black;
+    width: 210px;
+    text-align: center;
+    position: relative;
+    left: 42%;
+    padding-bottom: 25px;
+    padding-top: 5px;
+}
+
+#top p{
+    font-size: 16px;
+}
+
+#bottom{
+    margin-top: 20px;
+    border: 2px solid black;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    left: 30.5%;
+    padding-top: 5px;
+    padding-bottom: 25px;
+}
+
+#bottom h1{
+    font-size: 36px;
+    margin-bottom: 5px;
+}
